@@ -1,0 +1,16 @@
+STAFF_ID,FIRST_NAME,LAST_NAME,GENDER,PHONE,EMAIL,COMPANY_BRANCH
+9001,Priya,Nair,Female,0433 112 900,priya.nair@monequip.com.au,Clayton
+9002,Marcus,Bianchi,Male,0455 620 118,marcus.bianchi@monequip.com.au,Richmond
+9003,Sione,Latu,Male,0400 771 552,sione.latu@monequip.com.au,Geelong
+9004,Ella,Fraser,Female,0411 305 664,ella.fraser@monequip.com.au,Toorak
+9005,Hassan,Rahimi,Male,0422 918 743,hassan.rahimi@monequip.com.au,Pakenham
+9006,Chloe,Donnelly,Female,0433 447 210,chloe.donnelly@monequip.com.au,Docklands
+9007,Noah,Petrakis,Male,0400 158 926,noah.petrakis@monequip.com.au,Parkville
+9008,Isabel,Moreno,Female,0417 662 330,isabel.moreno@monequip.com.au,Eltham
+9009,Ryan,O'Sullivan,Male,0424 889 015,ryan.osullivan@monequip.com.au,Dandenong
+9010,Mia,Zhang,Female,0439 274 601,mia.zhang@monequip.com.au,Caulfield
+9011,Tomas,Novak,Male,0402 553 118,tomas.novak@monequip.com.au,Chadstone
+9012,Aroha,Wiremu,Female,0433 910 447,aroha.wiremu@monequip.com.au,Prahran
+9013,Ben,Fletcher,Male,0411 208 559,ben.fletcher@monequip.com.au,Hughesdale
+9014,Layla,Haddad,Female,0422 176 883,layla.haddad@monequip.com.au,Cheltenham
+9015,Oscar,Lindqvist,Male,0400 641 229,oscar.lindqvist@monequip.com.au,Fitzroy
