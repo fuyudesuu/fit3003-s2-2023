@@ -1,0 +1,13 @@
+CUSTOMER_ID,CUSTOMER_TYPE_ID,NAME,GENDER,ADDRESS_ID,PHONE,EMAIL
+5001,1,John Whitfield,Male,101,0412 335 981,john.whitfield@example.com
+5002,2,BuildRight Pty Ltd,,102,03 9412 7788,info@buildright.com.au
+5003,1,Amara Okafor,Female,103,0421 998 220,amara.okafor@example.com
+5004,2,Coastline Civil Group,,104,03 5222 4410,info@coastlinecivil.com.au
+5005,1,Liam Nguyen,Male,105,0433 210 447,liam.nguyen@example.com
+5006,1,Sofia Rossi,Female,106,0402 617 883,sofia.rossi@example.com
+5007,2,Apex Earthworks,,107,03 9330 5521,info@apexearthworks.com.au
+5008,1,Daniel Cohen,Male,108,0417 552 019,daniel.cohen@example.com
+5009,1,Grace Tanaka,Female,109,0424 780 336,grace.tanaka@example.com
+5010,2,Riverstone Constructions,,110,03 5229 6612,info@riverstoneco.com.au
+5011,1,Mohammed Ali,Male,111,0439 004 178,mohammed.ali@example.com
+5012,2,Summit Hire & Plant,,112,03 9510 8890,info@summithp.com.au
