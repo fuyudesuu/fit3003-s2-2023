@@ -1,0 +1,15 @@
+EQUIPMENT_ID,EQUIPMENT_NAME,EQUIPMENT_PRICE,MANUFACTURE_YEAR,MANUFACTURER,CATEGORY_ID
+7001,Scissor Lift 12m,34000,2019,Genie,1
+7002,Diesel Air Compressor 185cfm,22000,2017,Atlas Copco,2
+7003,Plate Compactor 500kg,11000,2018,Wacker Neuson,3
+7004,Concrete Mixer 400L,26000,2016,Multiquip,4
+7005,20T Hydraulic Excavator,185000,2018,Caterpillar,5
+7006,Diesel Generator 100kVA,18500,2019,Honda,6
+7007,Ride-on Mower 60in,9500,2020,Kubota,7
+7008,LED Light Tower 9m,14000,2018,Terex,8
+7009,Drain Camera Kit,6200,2019,Generic,9
+7010,Rail Trolley System,72000,2017,Volvo,10
+7011,Hi-Vis Safety Kit,120,2020,Generic,11
+7012,Site Fencing Panel Set,3800,2018,Generic,12
+7013,Tandem Box Trailer 3.5T,9500,2016,Generic,13
+7014,Tipper Truck 8T,96000,2019,Hino/Generic,14
