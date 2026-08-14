@@ -20,7 +20,7 @@ Management regularly generates reports to track revenue and business trends. Bec
 | Dimension | Detail |
 |---|---|
 | **Time** | Month / Year |
-| **Season** | Australian seasons — Summer, Autumn, Winter, Spring |
+| **Season** | Australian seasons - Summer, Autumn, Winter, Spring |
 | **Customer Type** | Individual / Business |
 | **Company Branch** | Branch location (e.g. Clayton, Richmond, Geelong) |
 | **Category** | Equipment category (e.g. Vehicles, Lighting, Trailers) |
@@ -35,15 +35,15 @@ Two versions were produced at different levels of granularity:
 | Version | Aggregation level |
 |---|---|
 | **Version 1** | High aggregation (summarised by dimension keys) |
-| **Version 2** | No aggregation (Level 0 — one row per transaction) |
+| **Version 2** | No aggregation (Level 0) |
 
 ## Repository Contents
 
 | File | Description |
 |---|---|
 | `diagram/ERD.png` | E/R diagram of the MonEquip operational database |
-| `diagram/StarSchemaV1.png` | Star schema diagram — Version 1 (high aggregation) |
-| `diagram/StarSchemaV2.png` | Star schema diagram — Version 2 (no aggregation, Level 0) |
+| `diagram/StarSchemaV1.png` | Star schema diagram - Version 1 (high aggregation) |
+| `diagram/StarSchemaV2.png` | Star schema diagram - Version 2 (no aggregation, Level 0) |
 | `DataCleaning.sql` | SQL to explore the operational database and clean the data |
 | `Star_Schema_V1.sql` | SQL to build the Version 1 (high-aggregation) star schema |
 | `Star_Schema_V2.sql` | SQL to build the Version 2 (Level 0) star schema |
